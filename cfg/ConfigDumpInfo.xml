@@ -66,6 +66,8 @@
 		<Metadata name="Catalog.ВходящиеПисьма.Form.ФормаЭлемента" id="3f834492-7d92-4947-9cdf-ddda5b048c2c" configVersion="d3c72dc963212549a3a4a5e7fbc1476200000000"/>
 		<Metadata name="Catalog.ВходящиеПисьма.Form.ФормаЭлемента.Form" id="3f834492-7d92-4947-9cdf-ddda5b048c2c.0" configVersion="add587d568256a43944214cd70277ee800000000"/>
 		<Metadata name="Catalog.ДоговорыКонтрагентов" id="c31ae1e7-0d0d-4d2d-b119-6e247f2549f3" configVersion="8cbc687d75f0304aadf31df38388ace600000000"/>
+		<Metadata name="Catalog.ЕдиницыИзмерения" id="af9b861e-4e20-4218-8f02-77f05ced1e55" configVersion="3f45a47dc615e843a1b400c235afc0ae00000000"/>
+		<Metadata name="Catalog.ЕдиницыИзмерения.Predefined" id="af9b861e-4e20-4218-8f02-77f05ced1e55.1c" configVersion="bf047a2844c61f4fbfccf5ad03aaf00500000000"/>
 		<Metadata name="Catalog.ЗначенияХарактеристик" id="d4acaff9-be49-4875-93cf-547d6bd9dbf6" configVersion="0cb87cc47b338248882e33cbdfa7c1ad00000000"/>
 		<Metadata name="Catalog.ЗначенияХарактеристик.Help" id="d4acaff9-be49-4875-93cf-547d6bd9dbf6.1" configVersion="02f147cc55c5ea4e86f1ff2c234b8a9800000000"/>
 		<Metadata name="Catalog.ИсходящиеПисьма" id="4bcaf0cb-e55d-41e9-915e-84689b3fb76c" configVersion="148ad3b99cc3cf44a69bb9149467004600000000">
@@ -359,7 +361,7 @@
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows32.Template" id="a0478cfc-4d22-451f-b62a-66e247ce4c49.0" configVersion="2ce74bf58e6ed540a526a48c83566bd000000000"/>
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows64" id="87438695-fa9a-432e-b5d2-84cc06e9ff6d" configVersion="560a7eaefbe2204da226eb169d17d79300000000"/>
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows64.Template" id="87438695-fa9a-432e-b5d2-84cc06e9ff6d.0" configVersion="fed865b5d85a2744acebb96163d7915300000000"/>
-		<Metadata name="Configuration.ДемонстрационноеПриложение" id="a3a9949e-f1f0-4b3a-821f-a85a9fb2fb3c" configVersion="ddbd55f25819874c8e2156fad5f19ee600000000"/>
+		<Metadata name="Configuration.ДемонстрационноеПриложение" id="a3a9949e-f1f0-4b3a-821f-a85a9fb2fb3c" configVersion="ec78677009cdae4e9848d64b0b416e8600000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.ClientApplicationInterface" id="71dad3e5-411e-4faa-9358-8eccdce47784.b" configVersion="0f0c0241cc10534e8d9bf3c63f067d5400000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.CommandInterface" id="71dad3e5-411e-4faa-9358-8eccdce47784.a" configVersion="8b7c0bd7f7ec554f91be4e63228674ac00000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.Help" id="71dad3e5-411e-4faa-9358-8eccdce47784.3" configVersion="39c2a05a01f5eb4e9cc7c5b28dcc226f00000000"/>
@@ -377,6 +379,7 @@
 		<Metadata name="Constant.АдресIMAPСервера" id="c4c43c07-2e0b-4776-8ffe-5f434f6c69b0" configVersion="4a3a00c1ec4fb543a328166127f9613400000000"/>
 		<Metadata name="Constant.АдресPOP3Сервера" id="c01f49fe-dc21-4239-849e-b387b8814ef4" configVersion="e91d0736d2833341a2c7a4588f26fa3b00000000"/>
 		<Metadata name="Constant.АдресSMTPСервера" id="6631d28a-5469-4f1b-a89f-37482371c56d" configVersion="144afa5da4442648b35926d9e15a399c00000000"/>
+		<Metadata name="Constant.БазоваяЕдиницаИзмерения" id="964f886b-0e83-4e70-b060-f784cb3eb465" configVersion="0261d17312b3d641ab43b6fdca4ba43800000000"/>
 		<Metadata name="Constant.ВалютаУчета" id="8a277f36-7f17-4baa-98a3-a9204855a39d" configVersion="dd4d5043c9a20c4092a046df5957535900000000"/>
 		<Metadata name="Constant.ВоспроизводитьТекстУведомления" id="a273947b-c78b-40fa-9809-5121b7b16ca5" configVersion="9ff5522c170c2b4aa32a1200948038b800000000"/>
 		<Metadata name="Constant.ВыборПровайдераГеопозиционирования" id="ae614e8c-a204-471c-b976-7d1d295ba13b" configVersion="840b583a4cfc034d8a32247fba36b36a00000000"/>
@@ -893,7 +896,7 @@
 		<Metadata name="Subsystem.Предприятие.CommandInterface" id="0b8e3358-2a9d-4692-a55d-c2f776d98083.1" configVersion="1d70e1601fe456458f9001fe681e133000000000"/>
 		<Metadata name="Subsystem.Продажи" id="81944f7e-2237-415c-9924-a9508a538efd" configVersion="78a1eb028203cc448c0445736ad8992600000000"/>
 		<Metadata name="Subsystem.Продажи.CommandInterface" id="81944f7e-2237-415c-9924-a9508a538efd.1" configVersion="4b7288f77f30ff42858ded941709eaf200000000"/>
-		<Metadata name="Subsystem.ТоварныеЗапасы" id="66b22144-60a1-4c76-867b-e97aa0c5bb2c" configVersion="7cd45004fda4174094f353664863f1c700000000"/>
+		<Metadata name="Subsystem.ТоварныеЗапасы" id="66b22144-60a1-4c76-867b-e97aa0c5bb2c" configVersion="e386f931d87d7d4ea32925bc9ac5cb9f00000000"/>
 		<Metadata name="Subsystem.ТоварныеЗапасы.CommandInterface" id="66b22144-60a1-4c76-867b-e97aa0c5bb2c.1" configVersion="8c0f3d477ded79469f3299317f746ebe00000000"/>
 		<Metadata name="Subsystem.ТоварныеЗапасы.Subsystem.Характеристики" id="5ac25e71-65d2-41c6-8ee9-28a592600b69" configVersion="65f6408d46cdb14a84a1347d0a306e1100000000"/>
 		<Metadata name="Subsystem.ТоварныеЗапасы.Subsystem.Характеристики.CommandInterface" id="5ac25e71-65d2-41c6-8ee9-28a592600b69.1" configVersion="85ac84e7f8a6ab4faa274cbd3c032feb00000000"/>
