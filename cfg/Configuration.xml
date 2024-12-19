@@ -492,6 +492,7 @@
 			<CommonForm>ФормаПодбораМобильная</CommonForm>
 			<CommonForm>Звонок</CommonForm>
 			<CommonForm>ФормаВыбораПользователяСистемыВзаимодействия</CommonForm>
+			<CommonForm>БазоваяЕдиницаИзмерения</CommonForm>
 			<Catalog>Регионы</Catalog>
 			<Catalog>Банки</Catalog>
 			<Catalog>Склады</Catalog>

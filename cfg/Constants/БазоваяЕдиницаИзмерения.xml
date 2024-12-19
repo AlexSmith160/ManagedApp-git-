@@ -28,7 +28,7 @@
 				<v8:Type>cfg:CatalogRef.ЕдиницыИзмерения</v8:Type>
 			</Type>
 			<UseStandardCommands>true</UseStandardCommands>
-			<DefaultForm/>
+			<DefaultForm>CommonForm.БазоваяЕдиницаИзмерения</DefaultForm>
 			<ExtendedPresentation/>
 			<Explanation/>
 			<PasswordMode>false</PasswordMode>
