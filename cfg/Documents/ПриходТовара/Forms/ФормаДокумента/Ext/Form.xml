@@ -146,6 +146,7 @@
 						</InputField>
 						<InputField name="ТоварыАртикул" id="15" DisplayImportance="Usual">
 							<DataPath>Объект.Товары.Товар.Артикул</DataPath>
+							<ReadOnly>true</ReadOnly>
 							<EditMode>EnterOnInput</EditMode>
 							<FooterHorizontalAlign>Left</FooterHorizontalAlign>
 							<Wrap>false</Wrap>
